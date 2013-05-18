@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="includeJars/asm-all-3.1.jar"/>
+	<classpathentry kind="lib" path="includeJars/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="includeJars/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="includeJars/easymock-3.0/easymock-3.0.jar" sourcepath="includeJars/easymock-3.0/easymock-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="includeJars/objenesis-1.2/objenesis-1.2.jar" sourcepath="includeJars/objenesis-1.2/objenesis-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="includeJars/RSBuddy.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://ve.vsm6ds6m.vesrv.com/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
