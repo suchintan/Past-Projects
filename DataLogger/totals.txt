@@ -1,0 +1,59 @@
+The total number of kills are: 91
+The drops achieved are: 
+dragon bones              0
+steel bar                 0
+rune hatchet              1
+rune mace                 3
+adamant 2h sword          0
+rune battleaxe            0
+battlestaff               0
+rune spear                0
+dragon spear              0
+rune 2h sword             2
+adamant kiteshield        1
+rune full helm            3
+rune sq shield            0
+rune kiteshield           0
+dragon med helm           0
+dragon plateskirt         0
+dragon platelegs          0
+rune javelin              13
+rune dart (p)             3
+blood rune                15
+runite bolts              1
+rune knife                1
+soul rune                 6
+steel arrow               0
+adamant javelin           0
+rune arrow                0
+law rune                  0
+nature rune               0
+death rune                0
+uncut sapphire            1
+uncut emerald             0
+uncut ruby                0
+rune bar                  3
+rune bar (noted)          0
+uncut diamond             0
+silver ore (noted)        0
+dragon stone              0
+coins                     15
+super attack (3)          7
+runite limbs              8
+steel dragon tail-bone    0
+super defence (2)         3
+curry                     1
+super strength (3)        0
+ferocious ring            0
+court summons             0
+starved ancient effigy    1
+loop half of a key        1
+tooth half of a key       1
+clue scroll (hard)        1
+clue scroll (elite)       0
+nature talisman           0
+shield left half          0
+draconic visage           0
+air orb                   0
+vecna skull               0
+nothing                   0
